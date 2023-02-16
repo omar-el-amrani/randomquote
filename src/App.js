@@ -6,7 +6,11 @@ function App() {
     <div className="App">
       <header className="App-header">
         <div  id="quote-box">
-          <p>
+         <div id="text"></div>
+         <div id="author"></div>
+         <button id="new-quote"></button>
+         <a id="tweet-quote" href='' ></a>
+          <p >
             Edit <code>src/App.js</code> and save to reload.
           </p>
           <a
