@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+#quote-box{
+  border: 2px white solid;
+  padding: 5%;
+}
